@@ -1,0 +1,41 @@
+.navbar{
+    background-color: rgb(54, 59, 4);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.profile{
+    background-color: rgb(54, 59, 4);
+    padding-top: 72px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.col-md-4-mb-3{
+    font-size: 5;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.col{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.col-sm-6{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:  rgb(54, 59, 4);;
+}
+
+section{
+    padding-top: 4rem;
+}
